@@ -21,7 +21,7 @@ A beautiful and responsive Random Number Generator built with React. Features an
 
 ## 🚀 Live Demo
 
-[[View Live Demo](https://s0sanjay.github.io/random-num-gen/)](https://random-num-gen-eight.vercel.app/)
+[[View Live Demo](https://random-num-gen-eight.vercel.app/)
 
 ### Light Theme (Default)
 Beautiful coral/red gradient with smooth interactions
